@@ -1,6 +1,6 @@
 package java.for.beginner
 
-final public class Constant { //ทำให้ไม่สามารถสืบทอดได้
+final public class Constants { //ทำให้ไม่สามารถสืบทอดได้
 
     public static void main (String[] args) { 
     
