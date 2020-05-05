@@ -1,6 +1,7 @@
 package java.for.beginner
 
-public class DataType {
+public class Variable {
+
     public static void main (String[] args) {
         byte a = 0; //สามารถเก็บข้อมูลตัวเลขได้ตั้งแต่ -128 ถึง 127
         short b = 0; //สามารถเก็บข้อมูลตัวเลขได้ตั้งแต่ -32768 ถึง 32767
@@ -12,4 +13,5 @@ public class DataType {
         boolean i = true; //ใช้เก็บข้อมูล true และ false
         String j = "text" //ใช้เก็บข้อมูลประเภทข้อความ และ ตัวเลข
     }
+    
 }
