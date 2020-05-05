@@ -13,3 +13,17 @@ Method: ส่วนประกอบสำคัญโดยการที่
 Comment: หากจะคอมเม้นบรรทัดเดียวให้ใช้ // แต่หากจะคอมเม้นหลายบรรทัดให้เริ่มด้วย /* และปิดท้ายคอมเม้นด้วย */
 
 Ending: หากจะจบโปรแกรมต้องลงท้ายด้วยเครื่องหมาย ; (Semicolon) ทุกครั้ง เช่น Example();
+
+Space: สามารถเว้นวรรคได้ไม่จำกัดเพื่อให้ดูสบายตาแต่ต้องลงท้ายด้วย ; เสมอไม่งั้น Error นะ
+
+### Keyword Blacklist คำต้องห้ามใช้ตั้งชื่อในภาษา Java: 
+abstract	continue	for	new	switch
+assert	default	goto	package	synchronized
+boolean	do	if	private	this
+break	double	implements	protected	throw
+byte	else	import	public	throws
+case	enum	instanceof	return	transient
+catch	extends	int	short	try
+char	final	interface	static	void
+class	finally	long	strictfp	volatile
+const	float	native	super	while
