@@ -34,7 +34,7 @@ public class InputOutput {
         Scanner sn = new Scanner(System.in);
         String name;
         
-        System.out.println(name); //Output: สิ่งที่กรอกลงไป
+        System.out.println(name); //Output: สิ่งที่ป้อนลงไปในที่นี้เป็นชื่อ
     }
     
 }
