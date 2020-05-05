@@ -32,9 +32,9 @@ public class InputOutput {
     
     public static void InputFromKeyboard() {
         Scanner sn = new Scanner(System.in);
-        String name;
+        int num = sn.nextInt();;
         
-        System.out.println(name); //Output: สิ่งที่ป้อนลงไปในที่นี้เป็นชื่อ
+        System.out.println(num); //Output: สิ่งที่ป้อนลงไป
     }
     
 }
