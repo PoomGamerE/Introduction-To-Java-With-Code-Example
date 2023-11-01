@@ -27,7 +27,6 @@ public final class Tool {
     }
 }
 
-
 //*********************************************
 package work02;
 public class FriendList {
@@ -66,3 +65,6 @@ public class FriendList {
         return sb.toString();
     }
 }
+
+Pass: ___m
+https://pastebin.com/9qfPBWt7
